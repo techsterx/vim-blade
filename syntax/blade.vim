@@ -28,7 +28,7 @@ syn cluster bladeStatement contains=bladeConditional,bladeKeyword
 syn region bladeParenBlock start="(" end=")" contained oneline contains=bladeParenBlock,@phpClInside,@bladeStatement extend keepend
 
 hi def link bladeComment Comment
-hi def link bladeConditional Conditional
+hi def link bladeConditional Keyword
 hi def link bladeKeyword Keyword
 hi def link bladeEchoDelim Delimiter
 
