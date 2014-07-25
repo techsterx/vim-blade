@@ -9,7 +9,7 @@ Using pathogen
 [pathogen.vim](https://github.com/tpope/vim-pathogen).  
 
     cd ~/.vim/bundle
-    git clone git://github.com/xsbeats/vim-blade.git
+    git clone git://github.com/techsterx/vim-blade.git
 
 Without vim-blade | With vim-blade
 ------------------|---------------
